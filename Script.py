@@ -11,10 +11,10 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 Title : @Drama_Loverx {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
-
+<blockquote>@Real_Pirates</blockquote>
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Real_Pirates)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
