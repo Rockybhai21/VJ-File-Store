@@ -12,12 +12,7 @@ class script(object):
 
     
     CAPTION = """<b>🎀 Title : @Drama_Loverx {file_name}
-s = "@ World! Hello Python!"
 
-# Replace "⎈" with "@ADL_Drama"
-s1 = s.replace("@","⎈")
-
-print(s1)
 sɪᴢᴇ 📥: {file_size}
 
 <blockquote>@Real_Pirates</blockquote>
