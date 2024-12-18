@@ -14,7 +14,7 @@ class script(object):
     CAPTION = """<b>🎀 Title : @Drama_Loverx {file_name}
 
 sɪᴢᴇ 📥: {file_size}
-➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {quality}
+➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {file_quality}
 ➥ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞:-  {file_size}
 
 <blockquote>@Real_Pirates</blockquote>
