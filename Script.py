@@ -17,7 +17,7 @@ class script(object):
 
 <blockquote>@Real_Pirates</blockquote>
 
-Jᴏɪɴ ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/drama_loverx)💞</b>""" 
+𝗝𝗢𝗜𝗡 ➥「 <a href='https://t.me/Real_Pirates'> ⎈ 𝐑𝐞𝐚𝐥 𝐏𝐢𝐫𝐚𝐭𝐞𝐬 🏴‍☠</a> 」 💞</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
